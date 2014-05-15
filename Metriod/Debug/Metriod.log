@@ -1,0 +1,34 @@
+﻿Build started 5/15/2014 12:15:24 AM.
+     1>Project "E:\Work\Fullsail\SGD\SGD\Metriod\Metriod\Metriod.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         D:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /I"C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include" /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _WINDOWS /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt Hero.cpp Lvl.cpp
+         Lvl.cpp
+         Hero.cpp
+         Generating Code...
+       Link:
+         D:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\Work\Fullsail\SGD\SGD\Metriod\Debug\Metriod.exe" /INCREMENTAL /NOLOGO /LIBPATH:"C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Lib\x86" /LIBPATH:"C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Lib" kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"E:\Work\Fullsail\SGD\SGD\Metriod\Debug\Metriod.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\Work\Fullsail\SGD\SGD\Metriod\Debug\Metriod.lib" /MACHINE:X86 /SAFESEH Debug\Bullet.obj
+         Debug\CBase.obj
+         Debug\CGameClass.obj
+         Debug\CObjectManager.obj
+         Debug\CSGD_Direct3D.obj
+         Debug\CSGD_DirectInput.obj
+         Debug\CSGD_DirectSound.obj
+         Debug\CSGD_Dispatcher.obj
+         Debug\CSGD_MemoryManager.obj
+         Debug\CSGD_MessageSystem.obj
+         Debug\CSGD_TextureManager.obj
+         Debug\CSGD_WaveManager.obj
+         Debug\Enemy.obj
+         Debug\Hero.obj
+         Debug\Lvl.obj
+         Debug\MainMenu.obj
+         Debug\MoreMenu.obj
+         Debug\SGD_Math.obj
+         Debug\Stats.obj
+         Debug\WinMain.obj
+         Metriod.vcxproj -> E:\Work\Fullsail\SGD\SGD\Metriod\Debug\Metriod.exe
+     1>Done Building Project "E:\Work\Fullsail\SGD\SGD\Metriod\Metriod\Metriod.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:05.82
